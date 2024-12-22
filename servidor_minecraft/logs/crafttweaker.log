@@ -1,0 +1,168 @@
+[19:27:36.519][INFO][CraftTweaker-EarlyInit]: CraftTweaker is running on a Minecraft 1.20.1 production server modded with platform Forge
+[19:27:36.526][INFO][CraftTweaker-EarlyInit]: Successfully injected RecipeFS file system
+[19:27:36.556][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin jeitweaker:common
+[19:27:36.571][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin
+[19:27:36.571][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[19:27:36.574][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin farmersdelight:crafttweaker_plugin
+[19:27:36.604][INFO][JEITweaker]: Identified JeiTweaker plugin 'jeitweaker:forge': loading scheduled
+[19:27:36.607][INFO][JEITweaker]: Identified JeiTweaker plugin 'jeitweaker:common': loading scheduled
+[19:27:36.620][INFO][JEITweaker]: JEITweaker Environmental Check: the combination of mods [jei] is fully supported
+[19:27:36.621][INFO][JEITweaker]: Running JeiTweaker plugin initialization
+[19:27:36.642][INFO][JEITweaker]: JeiTweaker plugin initialization completed successfully
+[19:27:37.306][INFO][CraftTweaker]: The following mods have explicit CraftTweaker support through the default plugin:
+[19:27:37.306][INFO][CraftTweaker]: - 'aether' at version '1.20.1-1.2.0-neoforge'
+[19:27:37.307][INFO][CraftTweaker]: - 'aquaculture' at version '2.5.1'
+[19:27:37.307][INFO][CraftTweaker]: - 'crafttweaker' at version '14.0.38'
+[19:27:37.307][INFO][CraftTweaker]: - 'cyclic' at version '1.12.9'
+[19:27:37.307][INFO][CraftTweaker]: - 'farmersdelight' at version '1.20.1-1.2.4'
+[19:27:37.307][INFO][CraftTweaker]: - 'jeitweaker' at version '8.0.6'
+[19:27:37.307][INFO][CraftTweaker]: - 'structurecompass' at version '2.0.8'
+[19:27:51.398][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'initialize'
+[19:27:51.870][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[19:27:51.924][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
+[19:27:52.087][INFO][CraftTweaker-ZenCode]: Execution for loader 'initialize' completed successfully
+[19:28:00.337][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'tags'
+[19:28:00.373][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[19:28:00.390][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
+[19:28:00.404][INFO][CraftTweaker-ZenCode]: Execution for loader 'tags' completed successfully
+[19:28:05.934][INFO][CraftTweaker]: crafttweaker.reload.start
+[19:28:05.945][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'crafttweaker'
+[19:28:05.973][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[19:28:06.504][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [mods, crafttweaker, expansions]
+[19:28:06.505][INFO][CraftTweaker-ZenCode]: Loading file 'add.zs' with priority 0
+[19:28:06.510][INFO][CraftTweaker-ZenCode]: Loading file 'jeiremove.zs' with priority 0
+[19:28:06.512][INFO][CraftTweaker-ZenCode]: Loading file 'tags.zs' with priority 0
+[19:28:06.596][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:enderchest_norm' that outputs: '<item:minecraft:ender_chest>'
+[19:28:06.597][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:coal_rod' that outputs: '<item:georenouveau:coal_geore_dowsing_rod>'
+[19:28:06.597][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:copper_rod' that outputs: '<item:georenouveau:copper_geore_dowsing_rod>'
+[19:28:06.597][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:diamond_rod' that outputs: '<item:georenouveau:diamond_geore_dowsing_rod>'
+[19:28:06.598][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:emerald_rod' that outputs: '<item:georenouveau:emerald_geore_dowsing_rod>'
+[19:28:06.598][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:gold_rod' that outputs: '<item:georenouveau:gold_geore_dowsing_rod>'
+[19:28:06.598][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:iron_rod' that outputs: '<item:georenouveau:iron_geore_dowsing_rod>'
+[19:28:06.598][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:lapis_rod' that outputs: '<item:georenouveau:lapis_geore_dowsing_rod>'
+[19:28:06.598][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:quartz_rod' that outputs: '<item:georenouveau:quartz_geore_dowsing_rod>'
+[19:28:06.598][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:redstone_rod' that outputs: '<item:georenouveau:redstone_geore_dowsing_rod>'
+[19:28:06.599][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:zinc_rod' that outputs: '<item:georenouveau:zinc_geore_dowsing_rod>'
+[19:28:06.599][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:structurecompass' that outputs: '<item:structurecompass:structure_compass>'
+[19:28:06.601][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:arsgravel' that outputs: '<item:minecraft:gravel> * 8'
+[19:28:06.601][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:arssand' that outputs: '<item:minecraft:sand> * 8'
+[19:28:06.602][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:arsclay' that outputs: '<item:minecraft:clay_ball> * 4'
+[19:28:06.602][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:irongear' that outputs: '<item:industrialforegoing:iron_gear>'
+[19:28:06.602][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:goldgear' that outputs: '<item:industrialforegoing:gold_gear>'
+[19:28:06.605][INFO][CraftTweaker]: Adding 'minecraft:blasting' recipe, with name: 'crafttweaker:silverblast' that outputs: '<item:occultism:silver_ingot>'
+[19:28:06.605][INFO][CraftTweaker]: Adding 'minecraft:smelting' recipe, with name: 'crafttweaker:silverfurnace' that outputs: '<item:occultism:silver_ingot>'
+[19:28:06.605][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:capacitor' that outputs: '<item:createaddition:capacitor>'
+[19:28:06.614][INFO][CraftTweaker]: Removing all recipes that output <item:regions_unexplored:raw_redstone_block>
+[19:28:06.658][INFO][CraftTweaker]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
+[19:28:06.658][INFO][CraftTweaker]: Removing all recipes that output <item:cyclic:ender_book>
+[19:28:06.688][INFO][CraftTweaker]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
+[19:28:06.688][INFO][CraftTweaker]: Removing all recipes that output <item:cyclic:inventory_cake>
+[19:28:06.712][INFO][CraftTweaker]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
+[19:28:06.712][INFO][CraftTweaker]: Removing all recipes that output <item:cyclic:storage_bag>
+[19:28:06.735][INFO][CraftTweaker]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
+[19:28:06.735][INFO][CraftTweaker]: Removing all recipes that output <item:cyclic:crafting_bag>
+[19:28:06.758][INFO][CraftTweaker]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
+[19:28:06.758][INFO][CraftTweaker]: Removing all recipes that output <item:cyclic:crafting_stick>
+[19:28:06.779][INFO][CraftTweaker]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
+[19:28:06.779][INFO][CraftTweaker]: Removing all recipes that output <item:cyclic:mob_container>
+[19:28:06.800][INFO][CraftTweaker]: Removed 0 recipes registered in these 0 recipe managers: []
+[19:28:06.800][INFO][CraftTweaker]: Removing all recipes that output <item:cyclic:magic_net>
+[19:28:06.819][INFO][CraftTweaker]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
+[19:28:06.820][INFO][CraftTweaker]: Removing all recipes that output <item:cyclic:tile_transporter_empty>
+[19:28:06.839][INFO][CraftTweaker]: Removed 2 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 2]
+[19:28:06.839][INFO][CraftTweaker]: Removing all recipes that output <item:cyclic:sleeping_mat>
+[19:28:06.855][INFO][CraftTweaker]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
+[19:28:06.855][INFO][CraftTweaker]: Removing all recipes that output <item:cyclic:cable_wrench>
+[19:28:06.867][INFO][CraftTweaker]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
+[19:28:06.867][INFO][CraftTweaker]: Removing all recipes that output <item:cyclic:lunchbox>
+[19:28:06.878][INFO][CraftTweaker]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
+[19:28:06.879][INFO][CraftTweaker]: Removing all recipes that output <item:cyclic:anvil_void>
+[19:28:06.890][INFO][CraftTweaker]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
+[19:28:06.890][INFO][CraftTweaker]: Removing all recipes that output <item:cyclic:crusher>
+[19:28:06.901][INFO][CraftTweaker]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
+[19:28:06.902][INFO][CraftTweaker]: Removing all recipes that output <item:cyclic:uncrafter>
+[19:28:06.913][INFO][CraftTweaker]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
+[19:28:06.914][INFO][CraftTweaker]: Removing all recipes that output <item:cyclic:anvil>
+[19:28:06.924][INFO][CraftTweaker]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
+[19:28:06.924][INFO][CraftTweaker]: Removing all recipes that output <item:cyclic:anvil_magma>
+[19:28:06.933][INFO][CraftTweaker]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
+[19:28:06.933][INFO][CraftTweaker]: Removing all recipes that output <item:cyclic:disenchanter>
+[19:28:06.945][INFO][CraftTweaker]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
+[19:28:06.945][INFO][CraftTweaker]: Removing all recipes that output <item:cyclic:experience_pylon>
+[19:28:06.955][INFO][CraftTweaker]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
+[19:28:06.955][INFO][CraftTweaker]: Removing all recipes that output <item:cyclic:energy_pipe>
+[19:28:06.966][INFO][CraftTweaker]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
+[19:28:06.966][INFO][CraftTweaker]: Removing all recipes that output <item:cyclic:item_pipe>
+[19:28:06.975][INFO][CraftTweaker]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
+[19:28:06.975][INFO][CraftTweaker]: Removing all recipes that output <item:cyclic:fluid_pipe>
+[19:28:06.984][INFO][CraftTweaker]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
+[19:28:06.984][INFO][CraftTweaker]: Removing all recipes that output <item:cyclic:item_infinite>
+[19:28:06.993][INFO][CraftTweaker]: Removed 0 recipes registered in these 0 recipe managers: []
+[19:28:06.993][INFO][CraftTweaker]: Removing all recipes that output <item:cyclic:tile_transporter>
+[19:28:07.001][INFO][CraftTweaker]: Removed 0 recipes registered in these 0 recipe managers: []
+[19:28:07.001][INFO][CraftTweaker]: Removing all recipes that output <item:reliquary:hero_medallion>
+[19:28:07.010][INFO][CraftTweaker]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
+[19:28:07.010][INFO][CraftTweaker]: Removing all recipes that output <item:georenouveau:ruby_geore_dowsing_rod>
+[19:28:07.019][INFO][CraftTweaker]: Removed 0 recipes registered in these 0 recipe managers: []
+[19:28:07.019][INFO][CraftTweaker]: Removing all recipes that output <item:georenouveau:sapphire_geore_dowsing_rod>
+[19:28:07.027][INFO][CraftTweaker]: Removed 0 recipes registered in these 0 recipe managers: []
+[19:28:07.027][INFO][CraftTweaker]: Removing all recipes that output <item:georenouveau:topaz_geore_dowsing_rod>
+[19:28:07.037][INFO][CraftTweaker]: Removed 0 recipes registered in these 0 recipe managers: []
+[19:28:07.039][INFO][CraftTweaker]: Removing 'minecraft:crafting' recipe(s) with name(s): '[industrialforegoing:iron_gear]'
+[19:28:07.039][INFO][CraftTweaker]: Removing 'minecraft:crafting' recipe(s) with name(s): '[industrialforegoing:gold_gear]'
+[19:28:07.039][INFO][CraftTweaker]: Removing 'minecraft:crafting' recipe(s) with name(s): '[lexchange:conversions/blocks/logs_to_obsidian]'
+[19:28:07.039][INFO][CraftTweaker]: Removing 'minecraft:crafting' recipe(s) with name(s): '[lexchange:conversions/resources/emerald_to_diamond]'
+[19:28:07.039][INFO][CraftTweaker]: Removing 'minecraft:crafting' recipe(s) with name(s): '[lexchange:conversions/blk_to_res_and_res_to_blk/iron_ingot_to_obsidian]'
+[19:28:07.039][INFO][CraftTweaker]: Removing 'minecraft:crafting' recipe(s) with name(s): '[lexchange:conversions/blocks/clay_to_gravel]'
+[19:28:07.040][INFO][CraftTweaker]: Removing 'minecraft:crafting' recipe(s) with name(s): '[lexchange:conversions/blocks/dirt_to_gravel]'
+[19:28:07.040][INFO][CraftTweaker]: Removing 'minecraft:crafting' recipe(s) with name(s): '[lexchange:conversions/blocks/grass_to_sand]'
+[19:28:07.040][INFO][CraftTweaker]: Removing 'minecraft:crafting' recipe(s) with name(s): '[georenouveau:coal_geore_dowsing_rod]'
+[19:28:07.040][INFO][CraftTweaker]: Removing 'minecraft:crafting' recipe(s) with name(s): '[georenouveau:copper_geore_dowsing_rod]'
+[19:28:07.040][INFO][CraftTweaker]: Removing 'minecraft:crafting' recipe(s) with name(s): '[georenouveau:diamond_geore_dowsing_rod]'
+[19:28:07.040][INFO][CraftTweaker]: Removing 'minecraft:crafting' recipe(s) with name(s): '[georenouveau:emerald_geore_dowsing_rod]'
+[19:28:07.040][INFO][CraftTweaker]: Removing 'minecraft:crafting' recipe(s) with name(s): '[georenouveau:gold_geore_dowsing_rod]'
+[19:28:07.040][INFO][CraftTweaker]: Removing 'minecraft:crafting' recipe(s) with name(s): '[georenouveau:iron_geore_dowsing_rod]'
+[19:28:07.040][INFO][CraftTweaker]: Removing 'minecraft:crafting' recipe(s) with name(s): '[georenouveau:lapis_geore_dowsing_rod]'
+[19:28:07.040][INFO][CraftTweaker]: Removing 'minecraft:crafting' recipe(s) with name(s): '[georenouveau:quartz_geore_dowsing_rod]'
+[19:28:07.040][INFO][CraftTweaker]: Removing 'minecraft:crafting' recipe(s) with name(s): '[georenouveau:redstone_geore_dowsing_rod]'
+[19:28:07.040][INFO][CraftTweaker]: Removing 'minecraft:crafting' recipe(s) with name(s): '[georenouveau:zinc_geore_dowsing_rod]'
+[19:28:07.040][INFO][CraftTweaker]: Removing 'minecraft:crafting' recipe(s) with name(s): '[structurecompass:structure_compass]'
+[19:28:07.042][INFO][CraftTweaker]: Adding: [enlightened_end:void_leviathan] to tag: <tag:entity_types:mob_grinding_utils:no_dirt_spawn>
+[19:28:07.043][INFO][CraftTweaker]: Adding: [realmrpg_wyrms:ender_wyrm] to tag: <tag:entity_types:mob_grinding_utils:no_dirt_spawn>
+[19:28:07.043][INFO][CraftTweaker]: Adding: [realmrpg_wyrms:red_wyrm] to tag: <tag:entity_types:mob_grinding_utils:no_dirt_spawn>
+[19:28:07.043][INFO][CraftTweaker]: Adding: [enderzoology:wither_witch] to tag: <tag:entity_types:mob_grinding_utils:no_dirt_spawn>
+[19:28:07.043][INFO][CraftTweaker]: Adding: [enderzoology:wither_cat] to tag: <tag:entity_types:mob_grinding_utils:no_dirt_spawn>
+[19:28:07.043][INFO][CraftTweaker]: Adding: [ars_nouveau:whirlisprig] to tag: <tag:entity_types:mob_grinding_utils:no_dirt_spawn>
+[19:28:07.043][INFO][CraftTweaker]: Adding: [ars_nouveau:drygmy] to tag: <tag:entity_types:mob_grinding_utils:no_dirt_spawn>
+[19:28:07.043][INFO][CraftTweaker]: Adding: [ars_nouveau:starbuncle] to tag: <tag:entity_types:mob_grinding_utils:no_dirt_spawn>
+[19:28:07.044][INFO][CraftTweaker]: Adding: [ars_nouveau:gift_starby] to tag: <tag:entity_types:mob_grinding_utils:no_dirt_spawn>
+[19:28:07.044][INFO][CraftTweaker]: Adding: [forbidden_arcanus:lost_soul] to tag: <tag:entity_types:mob_grinding_utils:no_dirt_spawn>
+[19:28:07.044][INFO][CraftTweaker]: Adding: [rats:pied_piper] to tag: <tag:entity_types:mob_grinding_utils:no_dirt_spawn>
+[19:28:07.044][INFO][CraftTweaker]: Adding: [enderzoology:infested_zombie] to tag: <tag:entity_types:mob_grinding_utils:no_dirt_spawn>
+[19:28:07.044][INFO][CraftTweaker]: Adding: [enlightened_end:void_leviathan] to tag: <tag:entity_types:mob_grinding_utils:no_spawn>
+[19:28:07.044][INFO][CraftTweaker]: Adding: [realmrpg_wyrms:ender_wyrm] to tag: <tag:entity_types:mob_grinding_utils:no_spawn>
+[19:28:07.044][INFO][CraftTweaker]: Adding: [realmrpg_wyrms:red_wyrm] to tag: <tag:entity_types:mob_grinding_utils:no_spawn>
+[19:28:07.044][INFO][CraftTweaker]: Adding: [ars_nouveau:whirlisprig] to tag: <tag:entity_types:mob_grinding_utils:no_spawn>
+[19:28:07.044][INFO][CraftTweaker]: Adding: [ars_nouveau:drygmy] to tag: <tag:entity_types:mob_grinding_utils:no_spawn>
+[19:28:07.044][INFO][CraftTweaker]: Adding: [ars_nouveau:starbuncle] to tag: <tag:entity_types:mob_grinding_utils:no_spawn>
+[19:28:07.045][INFO][CraftTweaker]: Adding: [ars_nouveau:gift_starby] to tag: <tag:entity_types:mob_grinding_utils:no_spawn>
+[19:28:07.045][INFO][CraftTweaker]: Adding: [forbidden_arcanus:lost_soul] to tag: <tag:entity_types:mob_grinding_utils:no_spawn>
+[19:28:07.045][INFO][CraftTweaker]: Adding: [rats:pied_piper] to tag: <tag:entity_types:mob_grinding_utils:no_spawn>
+[19:28:07.045][INFO][CraftTweaker]: Adding: [enderzoology:infested_zombie] to tag: <tag:entity_types:mob_grinding_utils:no_spawn>
+[19:28:07.045][INFO][CraftTweaker]: Adding: [enlightened_end:void_leviathan] to tag: <tag:entity_types:mob_grinding_utils:no_swab>
+[19:28:07.045][INFO][CraftTweaker]: Adding: [realmrpg_wyrms:ender_wyrm] to tag: <tag:entity_types:mob_grinding_utils:no_swab>
+[19:28:07.045][INFO][CraftTweaker]: Adding: [realmrpg_wyrms:red_wyrm] to tag: <tag:entity_types:mob_grinding_utils:no_swab>
+[19:28:07.045][INFO][CraftTweaker]: Adding: [enderzoology:wither_witch] to tag: <tag:entity_types:mob_grinding_utils:no_swab>
+[19:28:07.045][INFO][CraftTweaker]: Adding: [enderzoology:wither_cat] to tag: <tag:entity_types:mob_grinding_utils:no_swab>
+[19:28:07.045][INFO][CraftTweaker]: Adding: [ars_nouveau:whirlisprig] to tag: <tag:entity_types:mob_grinding_utils:no_swab>
+[19:28:07.045][INFO][CraftTweaker]: Adding: [ars_nouveau:drygmy] to tag: <tag:entity_types:mob_grinding_utils:no_swab>
+[19:28:07.046][INFO][CraftTweaker]: Adding: [ars_nouveau:starbuncle] to tag: <tag:entity_types:mob_grinding_utils:no_swab>
+[19:28:07.046][INFO][CraftTweaker]: Adding: [ars_nouveau:gift_starby] to tag: <tag:entity_types:mob_grinding_utils:no_swab>
+[19:28:07.046][INFO][CraftTweaker]: Adding: [forbidden_arcanus:lost_soul] to tag: <tag:entity_types:mob_grinding_utils:no_swab>
+[19:28:07.046][INFO][CraftTweaker]: Adding: [rats:pied_piper] to tag: <tag:entity_types:mob_grinding_utils:no_swab>
+[19:28:07.046][INFO][CraftTweaker]: Adding: [minecraft:warden] to tag: <tag:entity_types:ars_nouveau:drygmy_blacklist>
+[19:28:07.046][INFO][CraftTweaker]: Adding: [minecraft:ender_dragon] to tag: <tag:entity_types:ars_nouveau:drygmy_blacklist>
+[19:28:07.046][INFO][CraftTweaker]: Adding: [minecraft:wither] to tag: <tag:entity_types:ars_nouveau:drygmy_blacklist>
+[19:28:07.054][INFO][CraftTweaker-ZenCode]: Execution for loader 'crafttweaker' completed successfully
+[19:28:07.056][INFO][CraftTweaker]: crafttweaker.reload.complete
+[19:28:07.057][INFO][CraftTweaker]: This reload was made possible by embeddedt and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod

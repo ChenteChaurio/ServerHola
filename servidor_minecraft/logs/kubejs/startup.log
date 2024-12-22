@@ -1,0 +1,7 @@
+[19:27:39] [INIT] KubeJS 2001.6.5-build.7; MC 2001 forge
+[19:27:39] [INIT] Loaded plugins:
+[19:27:39] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[19:27:39] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[19:27:40] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
+[19:27:40] [INFO] Loaded script startup_scripts:example.js in 0.075 s
+[19:27:40] [INFO] Loaded 1/1 KubeJS startup scripts in 0.535 s with 0 errors and 0 warnings
